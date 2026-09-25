@@ -34,3 +34,15 @@ Example: git rebase <branch-name>
 git fetch
 Downloads updates from a remote repository without merging them into the current branch.
 Example: git fetch upstream main
+
+git add
+Adds a new or modified file to the staging area so it can be included in the next commit.
+Example: git add doc/2_Version_Control/git_cheatsheet.txt
+
+git status
+Shows the current state of the repository, including staged, modified, and untracked files.
+Example: git status
+
+git log
+Shows the commit history of the repository.
+Example: git log
